@@ -1,0 +1,21 @@
+h1 {
+    color:blue ; 
+    font: 300 ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#first_b {
+    color: red ;
+    font: 700;
+    font-family: sans-serif ;
+}
+
+.one {
+    color: black;
+
+}
+
+.two {
+    color: green ;
+    font-family: Arial, Helvetica, sans-serif;
+}
